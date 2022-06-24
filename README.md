@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @a-a-ron-isanerd
 - 👀 I’m interested in learning more about how to impplement office libraries
-- 🌱 I’m currently learning about xlsx and ods libraries
+- 🌱 I’m currently learning about android libs and Spring Boot annotations
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
